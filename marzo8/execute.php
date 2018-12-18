@@ -50,7 +50,7 @@
 			$text="la data odierna è.date("d.m.y.");
 			$parameters = array('chat_id' => $chatId, "text" => $text);
 		}*/
-		if($text=="Ciao"){
+		if($text=="ciao"){
 			$text="benvenuto!!!";
 			$parameters = array('chat_id' => $chatId, "text" => $text);
 		}
